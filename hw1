@@ -1,0 +1,14 @@
+'''
+ Name: Jadniel Algarin (or Jahad)
+ Date: 10/25/2024
+ Course Number: D80
+ Course Name: CSC-113
+ Problem Number:1
+ Email: Jalgarin2201@student.stcc.edu
+ Problem Description: Print Name as a Banner
+ '''
+print("JJJJJJJJJ  AAAAAAAAA  H        H  AAAAAAAAA  DDDDD")
+print("    J      A       A  H        H  A       A  D    D")
+print("    J      AAAAAAAAA  HHHHHHHHHH  AAAAAAAAA  D    D")
+print("J   J      A       A  H        H  A       A  D    D")
+print("JJJJJ      A       A  H        H  A       A  DDDDD")
