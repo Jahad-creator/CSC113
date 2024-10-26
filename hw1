@@ -7,8 +7,8 @@
  Email: Jalgarin2201@student.stcc.edu
  Problem Description: Print Name as a Banner
  '''
-print("JJJJJJJJJ  AAAAAAAAA  H        H  AAAAAAAAA  DDDDD")
-print("    J      A       A  H        H  A       A  D    D")
-print("    J      AAAAAAAAA  HHHHHHHHHH  AAAAAAAAA  D    D")
-print("J   J      A       A  H        H  A       A  D    D")
-print("JJJJJ      A       A  H        H  A       A  DDDDD")
+print("JJJJJJJJJ  AAAAAAAAA  H        H  AAAAAAAAA  DDDDD        AAAAAAAAA")
+print("    J      A       A  H        H  A       A  D    D       A       A")
+print("    J      AAAAAAAAA  HHHHHHHHHH  AAAAAAAAA  D    D       AAAAAAAAA")
+print("J   J      A       A  H        H  A       A  D    D       A       A")
+print("JJJJJ      A       A  H        H  A       A  DDDDD        A       A")
